@@ -9,7 +9,7 @@ This project leverages **Pocketbase** as the real-time backend, ensuring fast da
 
 ## Live Demo
 
-Explore **Notick** in action: [https://notick-app.vercel.app/](https://notick-app.vercel.app/)
+Explore **Notick** in action: [https://notick-mu.vercel.app/](https://notick-mu.vercel.app/)
 
 ## Key Features
 
