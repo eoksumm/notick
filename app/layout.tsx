@@ -45,7 +45,7 @@ export default function RootLayout({
               defaultTheme="system"
               enableSystem
               disableTransitionOnChange
-              storageKey="notick-theme-2"
+              storageKey="zotion-theme-2"
             >
               <Toaster position="bottom-center" />
               <ModalProvider />
