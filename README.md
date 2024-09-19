@@ -1,5 +1,3 @@
-Here's a refined version of your **Notick** project description with some unique phrasing and enhancements:
-
 ---
 
 # Notick
