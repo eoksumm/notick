@@ -13,12 +13,10 @@ export const Heading = () => {
   return (
     <div className="max-w-3xl space-y-4">
       <h1 className="text-3xl font-bold sm:text-5xl md:text-5xl">
-      Your thoughts, perfectly organized. Welcome to{" "}
-        <span className="underline">Notick</span>
+      Your thoughts, perfectly organized.
       </h1>
       <h2 className="text-base font-medium sm:text-xl">
-        Notick is the connected workspace where <br /> better, faster work
-        happens.
+        Notick is the straightforward tool for managing your <br /> thoughts and projects.
       </h2>
       {isLoading && (
         <div className="flex w-full items-center justify-center">

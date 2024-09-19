@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Notick",
   description:
-    "The seamless platform where creative and productive work happens.",
+    "Your thoughts, perfectly organized.",
   icons: {
     icon: [
       {
