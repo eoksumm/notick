@@ -45,7 +45,7 @@ const DocumentsPage = () => {
         className="hidden h-auto dark:block"
       />
       <h2 className="text-lg font-medium">
-        Welcome to {user?.firstName}&apos;s Zotion
+        Welcome to {user?.firstName}&apos;s Notick
       </h2>
       <Button onClick={onCreate}>
         <PlusCircle className="mr-2 h-4 w-4" />
