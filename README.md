@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-repo/notick
+   git clone https://github.com/eoksumm/notick
    ```
 
 2. **Install dependencies**:
