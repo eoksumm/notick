@@ -2,6 +2,11 @@
 ---
 
 # Notick
+
+Notick enables users to seamlessly structure their thoughts, tasks, and documents in a flexible workspace designed for productivity.
+
+This project leverages **Pocketbase** as the real-time backend, ensuring fast data synchronization and efficient file management. The frontend is built with **Shadcn/UI** and **Tailwind CSS**, providing a sleek, modern design. For data fetching and management, **@tanstack/query 5** is used to ensure smooth, optimized data handling. Secure user authentication is integrated to protect your notes, while maintaining a user-friendly experience.
+
 ## Live Demo
 
 Explore **Notick** in action: [https://notick-mu.vercel.app/](https://notick-mu.vercel.app/)
